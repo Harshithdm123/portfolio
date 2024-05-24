@@ -1,2 +1,2 @@
-https://harshithdm123.github.io/portfolio/index.html
+https://harshithdm123.github.io/portfolio/portfolio1/index.html
 I have created my personal portfolio
